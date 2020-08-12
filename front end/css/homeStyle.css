@@ -1,0 +1,26 @@
+.head1 {
+	font-style: italic;
+	text-align: center;
+}
+.block1 {
+	margin-left: 40px;
+	min-height: 900px;
+	margin-bottom: 50px;
+}
+.carimage {
+	width: 1150px;
+    height: 600px;
+}
+
+.container {
+	margin-top: 10px;
+}
+
+.head1 {
+	margin-top: 90px;
+	font-family: 'Roboto Slab', serif;
+	font-size: 1.7rem;
+	color: black;
+	text-align: left;;
+
+}
