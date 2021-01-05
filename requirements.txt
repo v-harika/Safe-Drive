@@ -1,7 +1,0 @@
-You just need following softwares before using this model,
-1.
-2.
-3.
-4.
-
-Why late? just try implement model now :)
